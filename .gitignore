@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GrokkingAlgorithms/DesignTimeBuild/.dtbcache.v2
+/bin/Debug/net6.0
+/obj/Debug/net6.0
+/.vs/GrokkingAlgorithms/v17/.suo
+/.vs/GrokkingAlgorithms/FileContentIndex/1312ca1d-f21c-4759-8634-971594c74d83.vsidx
+/.vs/GrokkingAlgorithms/FileContentIndex/24a4e298-b895-410a-b1b8-17b9e6a36a48.vsidx
+/.vs/GrokkingAlgorithms/FileContentIndex/2a108064-4d2b-440f-93c2-08d334559449.vsidx
+/.vs/GrokkingAlgorithms/FileContentIndex
