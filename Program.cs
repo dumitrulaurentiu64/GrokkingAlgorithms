@@ -2,4 +2,6 @@
 
 // BinarySearch.TryBinarySearch();
 
-SelectionSort.TrySelectionSort();
+// SelectionSort.TrySelectionSort();
+
+QuickSort.TryQuickSort();
