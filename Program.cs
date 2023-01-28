@@ -1,3 +1,5 @@
 ﻿using GrokkingAlgorithms.Implementations;
 
-BinarySearch.TryBinarySearch();
+// BinarySearch.TryBinarySearch();
+
+SelectionSort.TrySelectionSort();
